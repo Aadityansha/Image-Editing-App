@@ -4,6 +4,8 @@
 
 This is a simple yet powerful image or photo editing app build with **Python** , **PIL** module for image editing and **Streamlit** a python module for building modern web-apps.
 
+[Click here for demo :)](https://share.streamlit.io/aadityansha/image-editing-app/main/app.py)
+
 ## Features
 
 - Easy to use

@@ -97,6 +97,7 @@ if image:
 
     # displaying edited image
     st.image(edited_img, width=400)
+    st.write(">To download edited image right click and `click save image as`.")
 
     # badge
     st.sidebar.write("""

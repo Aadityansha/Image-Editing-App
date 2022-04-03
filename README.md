@@ -38,5 +38,5 @@ You can deploy this app of share.streamlit.io, which comes with easy installatio
 
 ## Screenshot
 
-![App Screenshot](https://raw.githubusercontent.com/Aadityansha/Image-Editing-App/main/screenshot.png)
+![App Demo GIF](https://raw.githubusercontent.com/Aadityansha/Image-Editing-App/main/app-demo.gif)
 

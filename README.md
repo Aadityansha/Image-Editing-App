@@ -36,7 +36,7 @@ streamlit run app.py
 You can deploy this app of share.streamlit.io, which comes with easy installation.
 
 
-## Screenshot
+## App Demo GIF
 
 ![App Demo GIF](https://raw.githubusercontent.com/Aadityansha/Image-Editing-App/main/app-demo.gif)
 
